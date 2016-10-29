@@ -1,6 +1,6 @@
 {
   "name": "react-native-kurento-utils-js",
-  "version": "6.7.0",
+  "version": "6.7.0-dev",
   "description": "Kurento Utilities for React Native",
   "homepage": "https://github.com/enricotelesca/react-native-kurento-utils-js",
   "license": "ALv2",
