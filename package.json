@@ -65,7 +65,7 @@
     "uuid": "~2.0.1"
   },
   "peerDependencies": {
-    "react-native-webrtc": "^0.13.0"
+    "react-native-webrtc": "x.x.x"
   },
   "optionalDependencies": {
     "kurento-browser-extensions": "*"
